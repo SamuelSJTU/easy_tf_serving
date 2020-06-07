@@ -1,0 +1,13 @@
+{
+    "model_dir":"./model",
+    "models":[
+        {
+            "name":"fashion",
+            "path":"fashion"
+        },
+        {
+            "name":"criteo",
+            "path":"criteo"
+        }
+    ]
+}
